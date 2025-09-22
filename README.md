@@ -2,4 +2,4 @@
 When coding meets Physics 
 
 
-"shiftrix.netfliy.app"
+"https://shiftrix.netfliy.app"
